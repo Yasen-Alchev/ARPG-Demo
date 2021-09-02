@@ -1,3 +1,3 @@
-# FirstGame
+# ARPG-Demo
 
-Developed with Unreal Engine 4
+First ARPG demo game developed with UE4 during my internship at Kipi Interactive
